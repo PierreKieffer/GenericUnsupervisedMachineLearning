@@ -1,0 +1,28 @@
+
+###############################
+#### General configuration ####
+###############################
+
+# Data input format : csv or parquet
+INPUT_FORMAT: "parquet"
+
+# path to input data files repo
+INPUT_PATH: "/home/.../MachineLearningFeatures"
+
+# path of repo for output files
+OUTPUT_PATH: "/home/.../output"
+
+# K max to compute for silhouette method
+MAX_K: "10"
+
+
+
+
+
+
+
+
+
+
+
+
